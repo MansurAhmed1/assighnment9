@@ -7,7 +7,7 @@ const Reviews = () => {
     return (
         <div className='pb-5'>
 
-                <h3 className='fw-bold text-center pt-4 pb-0'>Customar Reviews</h3>
+                <h3 className='fw-bold text-center pt-4 pb-0'>What our customers say</h3>
                
   
                 <div className='row row-cols-1 row-cols-lg-2 gx-4 gy-3 pt-3 mx-auto' style={{width:"90%"}}>

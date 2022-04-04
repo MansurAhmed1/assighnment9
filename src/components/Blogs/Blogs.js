@@ -2,7 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div className='mx-5 py-4'>
+        <div className='mx-lg-5 mx-2 py-4'>
             <h3 className='fw-bold'> Difference between inline and inline-block?</h3>
             <p><span className='fw-bold'>Inline:</span> does not respect the width, height, padding and margin of the object, in other words, if you specify width, it may overlap with neighbor elements. <br />
 

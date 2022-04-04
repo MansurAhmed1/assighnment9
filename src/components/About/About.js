@@ -6,12 +6,12 @@ const About = () => {
           <ul>
               <li>
                I have created a home page where there is a product .I have mentioned the features of that product
-
+               There is a section for customer reviews
               </li>
-              <li>
-              There is a section for customer reviews
+              
 
-              </li>
+
+             
               <li>
                I have created a review page All the  reviews are shown on the page called Review
 
