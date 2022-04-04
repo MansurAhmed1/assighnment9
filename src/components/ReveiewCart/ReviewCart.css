@@ -1,0 +1,15 @@
+.cart{
+    height: 200px;
+    
+}
+.chart{
+    width: 400px;
+}
+@media (max-width: 500px) {
+    .cart{
+        height: 300px;
+    } 
+    .chart{
+        width: 350px;
+    } 
+}
